@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Naveen Kumar K</h1>
-<h3 align="center">"As a pre-final year student on a journey to explore the world of web development.💻✨ and coding. 🌐💡 Currently honing my skills and gearing up for the exciting journey ahead. #WebDevelopment #CodingEnthusiast #TechEnthusiast"</h3>
+<h3 align="center">"As a final year student on a journey to explore the world of web development.💻✨ and coding. 🌐💡 Currently honing my skills and gearing up for the exciting journey ahead. #WebDevelopment #CodingEnthusiast #TechEnthusiast"</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=naveenkumar68&label=Profile%20views&color=0e75b6&style=flat" alt="naveenkumar68" /> </p>
 
